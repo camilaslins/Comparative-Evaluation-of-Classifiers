@@ -1,4 +1,4 @@
-# Comparative-Evaluation-of-Classifiers
+# IN1102 Machine Learning
 This repository is for the machine learning course, which is part of the Computer Science postgraduate program at CIn/UFPE. It contains projects focused on evaluating and comparing machine learning classifiers using various methods.
 
 ## Description
